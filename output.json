@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Marlow Stern",
+            "title": "Miley Cyrus and Pete Davidson Tell 2021 to 'Go to Hell' - Daily Beast",
+            "description": "The actress-singer and SNL comic teamed up to ring in the New Year on NBC.",
+            "url": "https://www.thedailybeast.com/miley-cyrus-and-pete-davidson-tell-2021-to-go-to-hell-in-wacky-new-years-eve-special",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1435,w_2551,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1641013601/Screen_Shot_2021-12-31_at_11.31.26_PM_qblx6r",
+            "publishedAt": "2022-01-01T06:01:23Z",
+            "content": "Ever since Kathy Griffin was unceremoniously banished from CNNs New Years Eve coverage after posing with a papier-mâché version of Trumps bloody, decapitated headremember when the Trump family claime… [+3170 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Orange Bowl 2021: Georgia gets back to its dominant ways, flushing Alabama loss ahead of rematch with Tide - CBS Sports",
+            "description": "Georgia took it to Michigan from the opening drive in the College Football Playoff semifinal on New Year's Eve",
+            "url": "https://www.cbssports.com/college-football/news/orange-bowl-2021-georgia-gets-back-to-its-dominant-ways-flushing-alabama-loss-ahead-of-rematch-with-tide/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/01/01/4ba8a0bf-5396-4aec-b483-1e326e570855/thumbnail/1200x675/0e4beb02a46dc4a06d502c900beebc71/georgia-orange-bowl-trophy-g.png",
+            "publishedAt": "2022-01-01T05:23:00Z",
+            "content": "MIAMI GARDENS, Fla. That sound you heard Friday from Hard Rock Stadium was Georgia flushing its memories from the latest Alabama debacle and Michigan circling the drain. For one night, there was noth… [+5902 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Emma G. Fitzsimmons",
+            "title": "Eric Adams Takes Office as New York City's Mayor - The New York Times",
+            "description": "Eric Adams, the city’s second Black mayor, faces difficult decisions over how to lead New York City through the next wave of the pandemic.",
+            "url": "https://www.nytimes.com/2022/01/01/nyregion/eric-adams-inaguration-nyc-mayor.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/01/01/world/01adams-inauguration-sub2/01adams-inauguration-sub2-facebookJumbo.jpg",
+            "publishedAt": "2022-01-01T05:22:15Z",
+            "content": "Mr. Adams, the second Black mayor in the citys history, was sworn in using a family Bible, held by his son, Jordan Coleman, and clasping a framed photograph of his mother, Dorothy, who died last spri… [+963 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Victoria Victoria, Caitlin Yilek",
+            "title": "Live updates: The world welcomes 2022 with muted celebrations as COVID-19 cases surge - CBS News",
+            "description": "The Omicron variant, which is now driving record case numbers, forced many cities to tone down New Year's Eve events or cancel them altogether.",
+            "url": "https://www.cbsnews.com/live-updates/new-years-eve-2022-times-square-world-rings-in-new-year-as-covid-19-omicron-cases-surge/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/12/31/e2c06c05-ff4c-446b-92df-d93eb72053c1/thumbnail/1200x630/af1fa7f7fd595886139f25b5d77ee5e7/gettyimages-1362084376.jpg",
+            "publishedAt": "2022-01-01T04:39:09Z",
+            "content": "Many major European cities scaled back their planned celebrations due to a surge in cases. In Berlin, police urged people not to gather near the Brandenburg Gate, where a concert was staged without a… [+1244 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": null,
+            "title": "Limited revelers return to Times Square to usher in 2022 - NPR",
+            "description": "New York City said it limited the number of people in Times Square to about 15,000 this year, after forgoing a public event a year ago.",
+            "url": "https://www.npr.org/2021/12/31/1069582008/new-york-city-times-square-2022-new-years-eve",
+            "urlToImage": "https://media.npr.org/assets/img/2021/12/31/ap22001041798408_wide-95fa0fca8c899d4bd8b0861bf93418d60c1bae95.jpg?s=1400",
+            "publishedAt": "2022-01-01T04:25:19Z",
+            "content": "Christopher Munoz and Nirvana Contreras kiss during New Year's Eve celebrations in Times Square in New York.\r\nJeenah Moon/AP\r\nNEW YORK New York City readied to embrace the new year and bid good ridda… [+4597 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Mike Wall",
+            "title": "James Webb Space Telescope unfurls massive sunshield in major deployment milestone - Space.com",
+            "description": "This was one of Webb's most nerve-wracking post-launch steps.",
+            "url": "https://www.space.com/james-webb-space-telescope-sunshield-deployment-success",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/etjoaP8kyjNkQkfM3cEHKF-1200-80.jpeg",
+            "publishedAt": "2022-01-01T04:24:52Z",
+            "content": "One of the James Webb Space Telescope's\r\n most nail-biting deployment steps is safely in the books.\r\nThe $10 billion observatory unfurled its huge sunshield on Friday (Dec. 31), carefully unfolding t… [+5436 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Several dead in stampede at religious shrine in Kashmir - Al Jazeera English",
+            "description": "Mata Vaishno Devi is one of the most revered Hindu shrines in northern India, with tens of thousands visiting daily.",
+            "url": "https://www.aljazeera.com/news/2022/1/1/12-dead-in-stampede-at-religious-shrine-in-india",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/01/90fc1eac578c46d3aa45f82ff757aea5_18.webp?fit=770%2C513",
+            "publishedAt": "2022-01-01T04:01:18Z",
+            "content": "At least 12 people have died and 13 injured in a stampede at a religious shrine in Indian-administered Kashmir.\r\nThe disaster happened around 3am (21:30 GMT) while it was still dark on the route to t… [+2475 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Maya Yang",
+            "title": "Colorado wildfires: tens of thousands evacuated as blazes destroy hundreds of homes - The Guardian",
+            "description": "At least one first responder and six other people were injured in the fires after fires erupted Thursday outside Denver",
+            "url": "https://amp.theguardian.com/us-news/2021/dec/31/colorado-wildfires-thousands-evacuate-blazes-destroy-homes",
+            "urlToImage": null,
+            "publishedAt": "2022-01-01T04:00:00Z",
+            "content": "ColoradoAt least one first responder and six other people were injured in the fires after fires erupted Thursday outside Denver\r\nFri 31 Dec 2021 18.15 GMT\r\nTens of thousands of residents were forced … [+5325 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Richard Severo, Peter Keepnews",
+            "title": "Betty White, a Television Golden Girl From the Start, Is Dead at 99 - The New York Times",
+            "description": "Among the many highlights of a career that began in 1949 were star turns on “The Mary Tyler Moore Show” in the 1970s and “Saturday Night Live” in 2010.",
+            "url": "https://www.nytimes.com/2021/12/31/arts/television/betty-white-dead.html",
+            "urlToImage": "https://static01.nyt.com/images/2020/01/15/obituaries/00white-betty1/00white-betty1-facebookJumbo.jpg",
+            "publishedAt": "2022-01-01T03:51:18Z",
+            "content": "Betty Marion White was born on Jan. 17, 1922, in Oak Park, Ill., the only child of Horace and Tess (Cachikis) White. Her father was an electrical engineer, her mother a homemaker. When Betty was a to… [+1476 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Reuters",
+            "title": "Case dropped against jail guards on duty night Epstein died - NBC News",
+            "description": "U.S. prosecutors decided to end their criminal case against two Manhattan jail guards who admitted to falsifying records on the night Jeffrey Epstein killed",
+            "url": "https://www.nbcnews.com/news/us-news/case-dropped-jail-guards-duty-night-epstein-died-rcna10557",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2022-01/190810-jeffrey-epstein-al-1215-e979b3.jpg",
+            "publishedAt": "2022-01-01T03:05:00Z",
+            "content": "U.S. prosecutors decided to end their criminal case against two Manhattan jail guards who admitted to falsifying records on the night Jeffrey Epstein killed himself on their watch.\r\nIn a Thursday fil… [+1654 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Minneapolis Star Tribune"
+            },
+            "author": "Ben Goessling",
+            "title": "Vikings quarterback Kirk Cousins on COVID-19 list, out for Sunday's game vs. Packers - Minneapolis Star Tribune",
+            "description": "The unvaccinated quarterback had avoided COVID-19 all season until Friday. The Vikings will turn to backup QB Sean Mannion for what could be a must-win game in Green Bay.",
+            "url": "https://www.startribune.com/vikings-quarterback-kirk-cousins-on-covid-19-list-out-for-sundays-game-vs-packers/600131619/",
+            "urlToImage": "https://chorus.stimg.co/23136457/merlin_65624753.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces",
+            "publishedAt": "2022-01-01T02:48:11Z",
+            "content": "The Vikings' desperate push for a playoff spot will continue Sunday without quarterback Kirk Cousins.\r\nCousins went on the COVID-19 reserve list Friday after testing positive for the virus and will m… [+4035 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S. officials ask AT&T, Verizon to delay 5G wireless over aviation safety concerns - Reuters",
+            "description": "U.S. Transportation Secretary Pete Buttigieg and the head of the Federal Aviation Administration (FAA) on Friday asked AT&T <a href=\"https://www.reuters.com/companies/T.N\" target=\"_blank\">(T.N)</a> and Verizon Communications <a href=\"https://www.reuters.com/c…",
+            "url": "https://www.reuters.com/business/aerospace-defense/us-officials-ask-att-verizon-delay-5g-wireless-over-aviation-safety-concerns-2021-12-31/",
+            "urlToImage": "https://www.reuters.com/resizer/gQYKdqBcq0ijdYu7-fkiey8cQoc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6GBCOHVMXJKCHG6AHADKG7WC6M.jpg",
+            "publishedAt": "2022-01-01T01:06:00Z",
+            "content": "WASHINGTON, Dec 31 (Reuters) - U.S. Transportation Secretary Pete Buttigieg and the head of the Federal Aviation Administration (FAA) on Friday asked AT&amp;T (T.N) and Verizon Communications (VZ.N) … [+3106 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "STYLECASTER"
+            },
+            "author": "Jenzia Burgos",
+            "title": "Here's How to Watch Dick Clark's New Year's Rockin' Eve For Free to Ring in 2022 - StyleCaster",
+            "description": "And say goodbye to 2021!",
+            "url": "https://stylecaster.com/how-to-watch-dick-clarks-new-years-rockin-eve/",
+            "urlToImage": "https://stylecaster.com/wp-content/uploads/2021/12/dick-clark-new-years-rockin-eve.png",
+            "publishedAt": "2022-01-01T00:35:00Z",
+            "content": "Knowing how to watch Dick Clarks New Years Rockin Eve With Ryan Seacrest is key to ringing in the new yearand we have tips to watch it for free and enjoy this New Years tradition below.\r\nDick Clarks … [+6553 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KTLA Los Angeles"
+            },
+            "author": "Los Angeles Times, Kareen Wynter",
+            "title": "L.A. County COVID cases skyrocket to 27,000; health officials urge caution for New Year’s celebrations - KTLA Los Angeles",
+            "description": "Los Angeles County reported another surge in coronavirus cases Friday, prompting health officials to urge residents to curtail large New Year’s celebrations. The county recorded more than 27,000 new cases on the final day of 2021, more than during the last tw…",
+            "url": "https://ktla.com/news/local-news/l-a-county-covid-cases-skyrocket-to-27000-health-officials-urge-caution-for-new-years-celebrations/",
+            "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2021/12/COVID-test-1-1.jpg?w=1280",
+            "publishedAt": "2021-12-31T23:50:20Z",
+            "content": "Los Angeles County reported another surge in coronavirus cases Friday, prompting health officials to urge residents to curtail large New Years celebrations.\r\nThe county recorded more than 27,000 new … [+568 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": null,
+            "title": "Why Seattle CANNOT trade Russell Wilson; plus, the strategy driving Miami's win streak and more - NFL.com",
+            "description": "In this edition of the Scout's Notebook, Bucky Brooks says the Seahawks would be crazy to trade Russell Wilson. Plus, the strategy that's driving Miami's win streak, Tennessee's real MVP and a stud pass catcher who deserves far more attention.",
+            "url": "https://www.nfl.com/news/why-seattle-cannot-trade-russell-wilson-plus-the-strategy-driving-miami-s-win-st",
+            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/k4anhtxlwu3ygoejuvae",
+            "publishedAt": "2021-12-31T23:39:00Z",
+            "content": "In the first three drafts of the Carroll era, the Seahawks knocked it out of the park. From 2010 through 2012, Carroll, GM John Schneider and Co. selected Earl Thomas, Golden Tate, Kam Chancellor, Ri… [+2594 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Victoria Guida",
+            "title": "FDIC’s GOP chair to resign after partisan brawl - POLITICO",
+            "description": "Jelena McWilliams on Friday unexpectedly submitted her resignation.",
+            "url": "https://www.politico.com/news/2021/12/31/fdic-chair-jelena-mcwilliams-to-resign-526295",
+            "urlToImage": "https://static.politico.com/53/00/9c114cdb4ebd94b75592e8939b6f/ap18023716357716-c.jpg",
+            "publishedAt": "2021-12-31T23:23:11Z",
+            "content": "At a Dec. 14 board meeting, McWilliams rejected a bid by Consumer Financial Protection Bureau Director Rohit Chopra an FDIC board member and ally of Sen. Elizabeth Warren (D-Mass.) to add a record of… [+4696 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Samantha Ibrahim",
+            "title": "Betty White's 100th birthday party event will still go on - New York Post ",
+            "description": "True to White’s showbiz roots, the show must go on.",
+            "url": "https://nypost.com/2021/12/31/betty-whites-100th-birthday-party-event-will-still-go-on/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/10/betty-white-birthday-05.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2021-12-31T23:23:00Z",
+            "content": "The show goes on. \r\nBetty White was set to celebrate her 100th birthday on Jan. 17, and a tribute to her was set to play in movie theaters for one night only.\r\nHowever, the Hollywood icon died on New… [+4677 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kstp.com"
+            },
+            "author": "Josh Skluzacek",
+            "title": "2 injured after shooting at Mall of America; police say mall secured, investigation ongoing - KSTP",
+            "description": "Two people are injured after a shooting late Friday afternoon at Mall of America.",
+            "url": "https://kstp.com/news/two-people-injured-after-shooting-friday-at-mall-of-america-new-years-eve/6346741/",
+            "urlToImage": "https://kstp.com/kstpImages/repository/2021-12/2MOAShootingSceneDec31.jpg",
+            "publishedAt": "2021-12-31T23:16:47Z",
+            "content": "Police noted it's not an active shooter situation and the investigation into the incident is active.\r\nAt 5:42 p.m., police said officers had secured the scene and the mall was back to normal operatio… [+883 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Check out all the Samsung Galaxy S22 and S22 Ultra colors to choose from in these new renders - Android Police",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMifGh0dHBzOi8vd3d3LmFuZHJvaWRwb2xpY2UuY29tL2NoZWNrLW91dC1hbGwtdGhlLXNhbXN1bmctZ2FsYXh5LXMyMi1hbmQtczIyLXVsdHJhLWNvbG9ycy10by1jaG9vc2UtZnJvbS1pbi10aGVzZS1uZXctcmVuZGVycy_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2021-12-31T22:58:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "FOX 4 News"
+            },
+            "author": "Lynnanne Nguyen",
+            "title": "North Texas New Year's Eve celebrations going on as planned, with some scaled back - FOX 4 Dallas",
+            "description": "The annual fireworks show from Reunion Tower will still take place this year at midnight, with a few special additions.",
+            "url": "https://www.fox4news.com/news/north-texas-new-years-eve-celebrations-going-on-as-planned-with-some-scaled-back",
+            "urlToImage": "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/12/1280/720/N_REUNION-TOWER-NEW-YEAR_S-EVE-5A_KDFW44fd_146_mxf_00.00.06.23.png?ve=1&tl=1",
+            "publishedAt": "2021-12-31T22:30:00Z",
+            "content": "DALLAS - Some New Year’s Eve celebrations will be scaled back this year in the midst of rising COVID-19 cases due to the omicron variant. \r\nThe annual fireworks show from Reunion Tower will still tak… [+2332 chars]"
+        }
+    ]
+}
